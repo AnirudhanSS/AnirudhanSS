@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 
-Hi! Welcome(a)! 👋
+Hi! Welcome! 👋
 I Am **Anirudhan**.
   
 ### Contact Me
