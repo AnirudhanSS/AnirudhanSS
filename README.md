@@ -5,7 +5,8 @@
 
 - 📫 How to reach me **anirudhan1221@gmail.com**
 
-- 📄 Know about my experiences   [<img src="https://www.svgrepo.com/download/499788/download.svg" alt="resume" width="15" height="15"/>](https://drive.google.com/file/d/1Y_uC_gJ02rU6jEFEj61Yoeg0imN8lBCS/view?usp=sharing)
+- 📄 Know about my experiences   [<img src="https://www.svgrepo.com/930cafed-3ed2-4b2d-931d-4e55209b6bd6" alt="resume" width="15" height="15"/>](https://drive.google.com/file/d/1Y_uC_gJ02rU6jEFEj61Yoeg0imN8lBCS/view?usp=sharing)
+- 
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ## My Skill Set  
