@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **anirudhan1221@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Y_uC_gJ02rU6jEFEj61Yoeg0imN8lBCS/view?usp=sharing)
+- 📄 Know about my experiences [<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>](https://drive.google.com/file/d/1Y_uC_gJ02rU6jEFEj61Yoeg0imN8lBCS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
