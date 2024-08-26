@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **anirudhan1221@gmail.com**
 
-- 📄 Know about my experiences [<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>](https://drive.google.com/file/d/1Y_uC_gJ02rU6jEFEj61Yoeg0imN8lBCS/view?usp=sharing)
+- 📄 Know about my experiences [<img src="https://www.svgrepo.com/download/262847/curriculum-vitae-resume.svg" alt="blender" width="40" height="40"/>](https://drive.google.com/file/d/1Y_uC_gJ02rU6jEFEj61Yoeg0imN8lBCS/view?usp=sharing)
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ## My Skill Set  
