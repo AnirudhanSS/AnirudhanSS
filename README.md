@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anirudhan</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 👨‍💻 All of my projects are available at https://sharp-borg-431008.netlify.app/
+- 👨‍💻 All of my projects are available at [<img src="https://www.svgrepo.com/download/429905/portfolio-my-profile-browser.svg" alt="resume" width="20" height="20" style="text-decoration: none;"/>](https://anirudhanss-portfolio.netlify.app)
 
 - 📫 How to reach me **anirudhan1221@gmail.com**
 
