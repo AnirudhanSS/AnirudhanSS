@@ -1,67 +1,69 @@
-<h1 align="center">Hi 👋, I'm Anirudhan</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Hi, I'm Anirudhan 👋</h1>
+<h3 align="center">Full Stack .NET Developer | Angular • C# • ASP.NET Core • SQL Server</h3>
 
-- 👨‍💻 All of my projects are available at [<img src="https://www.svgrepo.com/download/429905/portfolio-my-profile-browser.svg" alt="resume" width="40" height="40" style="text-decoration: none; display: flex;"/>](https://anirudhanss-portfolio.netlify.app)
+---
 
-- 📫 How to reach me **anirudhan1221@gmail.com**
+🔭 I’m currently building modern, scalable web applications using Angular and ASP.NET Core.  
+🌱 Passionate about clean architecture, secure APIs (JWT), and efficient database design.  
+📫 Reach me at: **anirudhan.invicta@gmail.com**  
+🌐 Portfolio: [anirudhanss-portfolio.netlify.app](https://anirudhanss-portfolio.netlify.app)  
+📄 Resume: [View My Resume](https://drive.google.com/file/d/1K5mWl4O_7kqoUVi5tUoRxw5nZ9Y7sK1o/view?usp=sharing)  
 
-- 📄 Know about my experiences[   <img src="https://www.svgrepo.com/download/499788/download.svg" alt="resume" width="20" height="20" style="text-decoration: none;"/>](https://drive.google.com/file/d/1Y_uC_gJ02rU6jEFEj61Yoeg0imN8lBCS/view?usp=sharing)
+---
 
-<h1 align="left">Hey 👋 What's up?</h1>
+## 🚀 Tech Stack
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+### 👨‍💻 Frontend
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+</p>
 
+### 💻 Backend
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity Framework-68217A?style=flat-square&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
 
+### 🛠️ Database & Dev Tools
+<p>
+  <img src="https://img.shields.io/badge/MSSQL Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
+</p>
 
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-</div>
+---
 
-</td><td valign="top" width="33%">
+## 📌 Projects
 
+### 🏥 Clinic Management System – Web App  
+**Tech Stack:** ASP.NET Core · Angular · JWT · SQL Server · Entity Framework  
+A full-stack healthcare solution enabling secure login, role-based access, and dynamic patient management. Features include appointment booking, patient tracking, and modular design built with clean architecture principles.
 
+### 🩺 Clinic Management System – Console App  
+**Tech Stack:** C# · SQL Server  
+A CLI-based clinic workflow manager for registrations, treatments, and data handling via SQL integration. Built using OOP concepts with a simple, efficient user interface.
 
-### Backend  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
+---
 
-</td><td valign="top" width="33%">
+## 📈 GitHub Stats (optional)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnirudhanSS&show_icons=true&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnirudhanSS&theme=default" />
+</p>
 
+---
 
-
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
+## 📫 Let's Connect
+- 📧 [Email](mailto:anirudhan.invicta@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/anirudhanss/)
+- 🌐 [Portfolio](https://anirudhanss-portfolio.netlify.app)
